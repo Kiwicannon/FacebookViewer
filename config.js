@@ -1,3 +1,6 @@
 module.exports = {
-    secret: 'fritos'
+    secret: 'fritos',
+    clientID:,
+    clientSecret:,
+    callbackURL:
 }
